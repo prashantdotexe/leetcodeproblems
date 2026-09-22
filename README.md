@@ -11,4 +11,12 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
