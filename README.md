@@ -15,8 +15,10 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
