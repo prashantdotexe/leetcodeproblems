@@ -13,6 +13,6 @@ class Solution {
             }
             else return mid;
         }
-        return i;
+        return j;
     }
 }
