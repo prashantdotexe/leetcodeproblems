@@ -6,6 +6,7 @@ here are all my leetcode solutions
 ## String
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -36,4 +37,12 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
