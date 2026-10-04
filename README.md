@@ -8,6 +8,7 @@ here are all my leetcode solutions
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1208-get-equal-substrings-within-budget](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1208-get-equal-substrings-within-budget) |
 | [3498-reverse-degree-of-a-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -30,6 +31,7 @@ here are all my leetcode solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1208-get-equal-substrings-within-budget) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +58,12 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1208-get-equal-substrings-within-budget) |
+## Prefix Sum
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
