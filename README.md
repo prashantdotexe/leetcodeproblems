@@ -6,6 +6,7 @@ here are all my leetcode solutions
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -40,9 +41,19 @@ here are all my leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
