@@ -22,6 +22,7 @@ here are all my leetcode solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ here are all my leetcode solutions
 | [0162-find-peak-element](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1208-get-equal-substrings-within-budget) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
 | ------- |
