@@ -7,6 +7,7 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1208-get-equal-substrings-within-budget) |
 | [3498-reverse-degree-of-a-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3498-reverse-degree-of-a-string) |
@@ -48,11 +49,13 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
