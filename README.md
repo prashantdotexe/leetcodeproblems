@@ -6,6 +6,7 @@ here are all my leetcode solutions
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -92,6 +93,7 @@ here are all my leetcode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
@@ -99,6 +101,7 @@ here are all my leetcode solutions
 | [0100-same-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
@@ -115,5 +118,10 @@ here are all my leetcode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
