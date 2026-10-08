@@ -14,36 +14,19 @@
  * }
  */
 class Solution {
-    List<String> traversalList;
     public List<String> binaryTreePaths(TreeNode root) {
-        traversalList= new ArrayList<>();
-        traverseTree(new ArrayList<>(),root);
-        return traversalList;
+       List<String> res= new ArrayList<>();
+       traverse(root,res,""); 
+       return res; 
     }
-    void traverseTree( List<Integer> currentTraversal, TreeNode currentNode){
-        if(currentNode==null){
-            return;
+    void traverse(TreeNode root,List<String> res,String curr){
+        if(root==null)return;
+        if(root.left==null&&root.right==null){
+            curr+=root.val;
+            res.add(curr);
+            return;   
         }
-        currentTraversal.add(currentNode.val); 
-
-        if(currentNode.left==null&&currentNode.right==null){
-            String s ="";
-            for(int i=0;i<currentTraversal.size();i++){
-                if(i==currentTraversal.size()-1){
-                    s+=currentTraversal.get(i);
-                }
-                else {
-                    s+=currentTraversal.get(i)+"->";
-                }
-            }
-            traversalList.add(s);
-        }
-        // right 
-        traverseTree(currentTraversal, currentNode.right);
-        // left 
-        traverseTree(currentTraversal, currentNode.left);
-
-        currentTraversal.remove(currentTraversal.size()-1);
-
+        traverse(root.left,res,curr+root.val+"->");
+        traverse(root.right,res,curr+root.val+"->");
     }
 }
