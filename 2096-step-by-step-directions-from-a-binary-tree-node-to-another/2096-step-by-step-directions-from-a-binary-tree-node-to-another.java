@@ -35,8 +35,6 @@ class Solution {
         }
         sb.append('U');
         String left=leftdirection(root.left,target,sb);
-        sb.deleteCharAt(sb.length()-1);
-        sb.append('U');
         String right=leftdirection(root.right,target,sb);
         sb.deleteCharAt(sb.length()-1);
         return left.length()==0?right:left;
