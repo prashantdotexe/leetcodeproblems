@@ -11,6 +11,7 @@ here are all my leetcode solutions
 | [0856-score-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1208-get-equal-substrings-within-budget) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3498-reverse-degree-of-a-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -97,6 +98,7 @@ here are all my leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@ here are all my leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ here are all my leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,8 +139,10 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
