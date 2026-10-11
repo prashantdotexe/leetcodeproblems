@@ -100,6 +100,7 @@ here are all my leetcode solutions
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -113,6 +114,7 @@ here are all my leetcode solutions
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -124,6 +126,7 @@ here are all my leetcode solutions
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +140,7 @@ here are all my leetcode solutions
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
 |  |
@@ -156,4 +160,12 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
