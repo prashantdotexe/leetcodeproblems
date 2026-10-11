@@ -99,6 +99,7 @@ here are all my leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -111,6 +112,7 @@ here are all my leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -134,6 +136,7 @@ here are all my leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
 |  |
@@ -149,4 +152,8 @@ here are all my leetcode solutions
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
