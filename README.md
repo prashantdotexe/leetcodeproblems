@@ -7,6 +7,7 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -98,6 +99,7 @@ here are all my leetcode solutions
 | [0226-invert-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -112,6 +114,7 @@ here are all my leetcode solutions
 | [0226-invert-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -125,6 +128,7 @@ here are all my leetcode solutions
 | [0112-path-sum](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -138,6 +142,7 @@ here are all my leetcode solutions
 | [0226-invert-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -168,4 +173,8 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
