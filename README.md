@@ -26,6 +26,7 @@ here are all my leetcode solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -84,6 +85,7 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +96,7 @@ here are all my leetcode solutions
 | [0100-same-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
@@ -141,6 +144,7 @@ here are all my leetcode solutions
 | [0100-same-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
@@ -184,4 +188,8 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
