@@ -69,6 +69,7 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +109,7 @@ here are all my leetcode solutions
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -125,6 +127,7 @@ here are all my leetcode solutions
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -156,6 +159,7 @@ here are all my leetcode solutions
 | [0513-find-bottom-left-tree-value](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/prashantdotexe/leetcodeproblems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
 |  |
@@ -176,6 +180,7 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,4 +197,5 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
