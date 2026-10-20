@@ -31,6 +31,7 @@ here are all my leetcode solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [3886-sum-of-sortable-integers](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0069-sqrtx) |
+| [3886-sum-of-sortable-integers](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -192,6 +194,7 @@ here are all my leetcode solutions
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3886-sum-of-sortable-integers](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3886-sum-of-sortable-integers) |
 ## Design
 |  |
 | ------- |
@@ -202,4 +205,8 @@ here are all my leetcode solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/prashantdotexe/leetcodeproblems/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
