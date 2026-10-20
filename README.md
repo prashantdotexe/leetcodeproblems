@@ -105,6 +105,7 @@ here are all my leetcode solutions
 | [0113-path-sum-ii](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -126,6 +127,7 @@ here are all my leetcode solutions
 | [0113-path-sum-ii](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -162,6 +164,7 @@ here are all my leetcode solutions
 | [0113-path-sum-ii](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -212,6 +215,7 @@ here are all my leetcode solutions
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
