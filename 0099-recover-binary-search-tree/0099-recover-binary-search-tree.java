@@ -21,11 +21,13 @@ class Solution {
     public void recoverTree(TreeNode root) {
         inorder(root);
         if(first!=null&&last!=null){
+        // Two violations: swap first and last ( swap is not adjacent so two violations seen)
             int temp=first.val;
             first.val=last.val;
             last.val=temp;
         }
         else if(first!=null&&middle!=null){
+        // two violations not detected so -  One violation: swap first and middle - as adjacent elements are swapped
              int temp=first.val;
             first.val=middle.val;
             middle.val=temp;
