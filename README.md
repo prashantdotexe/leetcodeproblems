@@ -96,6 +96,7 @@ here are all my leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -117,6 +118,7 @@ here are all my leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0112-path-sum) |
@@ -148,6 +150,7 @@ here are all my leetcode solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -202,6 +205,7 @@ here are all my leetcode solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/prashantdotexe/leetcodeproblems/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prashantdotexe/leetcodeproblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
